@@ -78,7 +78,10 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 </p>
 
 
-
+<hr>
+<p>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
+<p>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
