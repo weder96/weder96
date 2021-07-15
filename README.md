@@ -76,13 +76,15 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
   <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
-
 <hr>
+
+<h4📫 Size Repos </h4>
 <p>
   <img alt="Vue 3 -App" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
   <img alt=" weder96.github.io" src="https://img.shields.io/github/repo-size/weder96/weder96.github.io?style=plastic">
 <p>
+  
+<hr>  
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
