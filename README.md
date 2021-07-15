@@ -93,17 +93,22 @@ Top languages does not indicate my skill level or something like that, it's a gi
 <a href="https://github.com/weder96/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
+<br>
+
 <a href="https://github.com/weder96/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark" />
 </a>
+<br>
 
 <a href="https://github.com/weder96/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3&theme=dark&show_icons=true" />
 </a>    
+<br>
+
 <a href="https://github.com/weder96/weder96.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=dark" />
 </a>
-
+<br>
 
 <!--
 **weder96/weder96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
