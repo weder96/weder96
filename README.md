@@ -1,7 +1,7 @@
 ### Hi there, I'm [Weder!](https://weder96.github.io) 👋
 
 <a href="https://codesandbox.io/u/weder96">
-  <img align="left" alt="weder96| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/codesandbox.svg" />
+  <img align="left" alt="weder96| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/codesandbox.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 <a href="https://twitter.com/weder96">
   <img align="left" alt="weder96 | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/twitter.svg" />
@@ -80,7 +80,8 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 
 <hr>
 <p>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
+  <img alt="Vue 3 -App" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
+  <img alt=" weder96.github.io" src="https://img.shields.io/github/repo-size/weder96/weder96.github.io?style=plastic">
 <p>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
