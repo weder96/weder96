@@ -13,6 +13,22 @@
 <br />
 <br />
 
+<p align='center'>
+  I live on Goiás, Brazil and work at <b>Everis Brasil</b> 
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=weder96.weder96??style=for-the-badge&logo=appveyor"></a>
+</p>
+
+
+<p align='center'>
+  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
 Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(React, Vue and Angular) web developer from Brazilian.
 
 - 🔭 I’m currently working on 
