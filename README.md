@@ -71,6 +71,17 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 </p>
 <hr>
 
+
+<hr>
+<h4> 📫  FrontEnd working with ...</h4>
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 <h4> 📫 Size Repos </h4>
 <p>
   <img alt="Vue 3 -App" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
