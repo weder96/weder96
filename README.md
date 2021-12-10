@@ -74,6 +74,8 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 
 <hr>
 <h4> 📫  FrontEnd working with ...</h4>
+<p>
+  
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -85,6 +87,7 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+</p>
 
 <h4> 📫 Size Repos </h4>
 <p>
