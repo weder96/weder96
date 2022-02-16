@@ -226,12 +226,12 @@ Top languages does not indicate my skill level or something like that, it's a gi
 
 <p align="left">
   <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark&line_height=30" 
+    <img src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark&line_height=40" 
          alt="Anurag's github  stats" />
   </a>
 
   <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark&line_height=40" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&count_private=true&hide=shell&theme=darcula&line_height=30">
   </a>
 </p>
 
