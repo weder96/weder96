@@ -224,27 +224,27 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark&line_height=40" 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark&line_height=30" 
          alt="Anurag's github  stats" />
   </a>
 
   <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark&line_height=30" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark&line_height=40" />
   </a>
 </p>
 
 <br>
+<p align="left">
+  <a href="https://github.com/weder96/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3&theme=dark&show_icons=true" />
+  </a>    
 
-<a href="https://github.com/weder96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3&theme=dark&show_icons=true" />
-</a>    
-<br>
-
-<a href="https://github.com/weder96/weder96.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=dark" />
-</a>
+  <a href="https://github.com/weder96/weder96.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=dark" />
+  </a>
+</p>  
 <br>
 
 <!--
