@@ -224,14 +224,16 @@ Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(Re
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
 
 
-<a href="https://github.com/weder96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
-</a>
-<br>
+<p align="center">
+  <a href="https://github.com/weder96/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github  stats" />
+  </a>
 
-<a href="https://github.com/weder96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark" />
-</a>
+  <a href="https://github.com/weder96/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&theme=dark" />
+  </a>
+</p>
+
 <br>
 
 <a href="https://github.com/weder96/github-readme-stats">
