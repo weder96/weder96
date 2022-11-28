@@ -12,7 +12,7 @@
 <br />
 
 <p align='center'>
-  I live on Goiás, Brazil and work at <b>NTT DATA BRAZIL</b> 
+  I live on Goiás, Brazil and work at <b>GFT BRAZIL</b> 
 </p>
 
 <p align='center'>
