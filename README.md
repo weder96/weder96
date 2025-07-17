@@ -1,229 +1,376 @@
-### Hi there, I'm [Weder!](https://weder96.github.io) 👋
+<!DOCTYPE html>
+<html>
+  <head>
+<!-- 	<style>
+    img {
+
+      border-radius: 10px;
+      border: 2px solid black;
+      float: right;
+      margin-left: 10px;
+      }
+    </style> -->
+  </head>
+<body>
+	<!-- Conteúdo da página aqui -->
+</body>
+</html>
 
 
-<a href="https://twitter.com/weder96">
-  <img align="left" alt="weder96 | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/twitter.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="weder96 Discord" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/discord.svg" />
+<h2 align
+="left">Cloud DevOps AWS & Engenheiro de Software & Full Stack Developer</h2>
+<h2>👋 Olá, eu sou Weder Mariano de Sousa </h2>
+
+Sou Engenheiro de Software Sênior e atualmente trabalho no Grupo GFT. Iniciei minha carreira em TI em 2000. me formei na area <b>técnica em Desenvlvimento de Sistema(ITEGO-GO)</b> e posteriomente me graduei em <b>Ciências da Computação(Uni Anhanguera-GO)</b> e tenho duas especializações: uma em <b>Segurança da Informação(UniLeya-RJ)</b> e outra em <b>Mídias Interativas(UFG-GO)</b>.
+
+Sou um entusiasta de Software Livre e participo ativamente do movimento em Goiás, sendo um dos membros fundadores da comunidade <b>Anapolivre</b>. 
+Além disso, sou um dos líderes da Comunidade <b>GoJava</b>, a maior comunidade de usuários <b>Java</b> do Centro-Oeste. 
+atualmente fui aceito como <b>AWS Community Builder</b>, além de ser um dos membros fundadores do <b>AWS User Group Anápolis</b>.
+
+Além de ser <b>Professor</b> de computação a mais <b>de 20 anos</b>, formando pessoas, ensinando e aprendendo.
+
+<br/>
+<br/>
+
+<h3>📌 Minha trajetória</h3>
+
+Minha paixão pela computação começou em 2000, quando fiz meu primeiro curso na área. Logo em seguida, passei a ser monitor e, posteriormente, professor.
+
+Em 2006, ingressei no curso Técnico em Computação com foco em <b>Desenvolvimento de Sistemas</b>. Naquela época, a área (desenvolvimento de Software)ainda não era bem definida, incluindo matérias de hardware no currículo. Nesse mesmo período, eu já ministrava aulas de computação e manutenção em escolas locais.
+
+Minha primeira oportunidade como programador surgiu em 2009, na área contábil e tributária. Foi nesse momento que tive meu primeiro contato com o que hoje entendemos como <b>Ciência de Dados</b>, trabalhando com tecnologias como <b>SQL, PostgreSQL e DB2</b>.
+
+Nos anos seguintes, atuei por sete anos na <b>Prefeitura de Anápolis</b> como desenvolvedor <b>(Java, SQL e front-end)</b>, período no qual também assumi a função de <b>Gerente de Projetos</b>. Paralelamente, lecionei como <b>professor no SENAC</b> em cursos técnicos de Informática voltados para a área de desenvolvimento.
+
+Em 2017, surgiu a oportunidade de trabalhar na construção de um sistema para a <b>startup Sensr.It Information Technology</b>, que estava em seu início. A empresa foi vendida em 2025 para uma gigante na área de <b>tickets operacionais e monitoramento de sistemas e hardware</b>.
+
+Fui contratado em 2018 pela <b>Squadra Tecnologia</b>, uma empresa de outsourcing de desenvolvimento de software. Atuei em projetos para várias empresas <b>gigantes em seus nichos de negócio</b>, o que me ajudou a me fortalecer e me tornar um <b>profissional diferenciado.</b> Concomitantemente, conciliei essa atuação com o cargo de <b>professor na Secretaria de Estado de Educação, Cultura e Esporte</b>.
+
+Em 2020, ingressei na <b>NTT DATA Europe & LATAM</b>, onde ocupei o cargo de <b>CLS - Center Leader Specialist Senior.</b> Participei de um dos maiores projetos de migração de um ambiente <b>on-premise para a nuvem para uma empresa do setor financeiro</b>, com a arquitetura totalmente redesenhada para <b>microsserviços</b>.
+
+No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b> para atuar como <b>Analista de Sistemas Sênior e Engenheiro de Software</b>. Fui selecionado devido às minhas habilidades e conhecimentos em <b>nuvem (AWS e Azure)</b> para participar de outro grande projeto de migração para a nuvem.
+
+<br/>
+
+
+<h3>💡Destaques</h3>
+
+• 100+ projetos (Banckend, FrontEnd e Aws) publicados no GitHub e no Dev.to. <br/>
+
+• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br/>
+
+• Experiência em projetos lab em Java e Spring Boot, em Micro Serviços<br/>
+
+• Possuo 3 certificações AWS incluindo (AWS Certified Solutions Developer – Associate, AWS Certified Solutions Architect – Associate, AWS Certified Cloud Practitioner)<br/> 
+
+• Possuo 3 certificações AWS Partners (Accreditation (Technical), Cloud Economics Essentials, Accreditation (Business))
+
+• Possuo 13 AWS Badge Knowledge: (Data Protection & Disaster Recovery, Data Migration, Migration Foundations, Amazon Braket, Well-Architected Proficient, Architecting, Amazon EKS, Events and Workflows, Networking Core, Compute, File Storage, Cloud Essentials, Serverless) 
+
+
+<h3>🎯 Minha atuação em Cloud & DevOps</h3>
+Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD, CDK, SAM) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br/>
+
+<h3>🔗 Minha atuação Projetos FrontEnd e Backend</h3>
+• Trabalhei em +100 projetos, sendo sua maioria está atualmente em Produção <br/>
+• Implementei pipelines CI/CD com AWS CodePipeline e Terraform, reduzindo tempo de deploy(Economia de Energia).<br/>
+• Desenvolvi APIs RESTful com Java(Springboot) e PostgreSQL e SQlServer, integrando microservices em projetos escaláveis.<br/>
+• Configurei infraestruturas AWS (EC2, RDS, VPC) para clientes, otimizando custos em 15%.<br/>
+• Criei Arquiteturas Cloud(Serverless), na Azure e AWS, criando sistema Multi Cloud<br/>
+• Criei Arquiteturas com Step functions e Lambdas, e que incluia Generative AI<br/>
+• Criei Arquiteturas Workflow de Dados (Azure e AWS)<br/>
+
+
+<h3>📩 Conecte-se!</h3>
+Venha conosco criar um movimento livre e com ajuda, vivermos em Comunidade, Backend, FrontEnd, Data, CLoud. <br/>
+
+Vamos conversar? 🚀
+
+##
+<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
+
+### Contato 📬
+- E-mail: weder96@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wedermarianodesousa/
+- Instagram: https://www.instagram.com/sousaweder/
+  <br/>
+<br/>
+
+## Minhas redes sociais 📱
+<table width="10px">
+  <tbody>
+    <tr valign="top">
+      <td width="30px" align="center">
+      <span>Linkedin</span><br/>
+<a href="https://www.linkedin.com/in/wedermarianodesousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="WederMariano" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Twitter</span><br/>
+
+<a href="https://twitter.com/weder96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weder96" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Facebook</span><br/>
+<a href="https://www.facebook.com/weder.sousa.77/?locale=pt_BR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weder.sousa.77" height="33" width="33" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Instagram</span><br/>
+<a href="https://www.instagram.com/sousaweder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sousaweder" height="33" width="33" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Discord</span><br/>
+<a href="https://discord.com/channels/weder.sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="weder.sousa" height="40" width="40" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Youtube</span><br/>
+<a href="https://www.youtube.com/@weder96" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="42" width="42" /></a></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Meu Portifolio e contatos 💼
+<table width="10px">
+  <tbody>
+   <tr valign="top">
+       <td width="30px" align="center">
+       <span>Portifolio</span><br/>
+       <a target="_blank" href="https://github.com/weder96"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png" height="35" width="35" /></a>
+       </td>
+       <td width="30px" height="30" align="center">
+       <span>Email</span>
+       <a target="_blank" href="mailto:weder96@gmail.com"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
+       </td>
+     <td width="30px" align="center">
+       <span>WhatsApp</span><br/>
+       <a target="_blank" href="https://web.whatsapp.com/"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="35" width="35"/></a>
+       </td>
+    </tr> 
+  </tbody>
+</table>
+
+<p align='left'>
+  <h2 align='left'>Minhas Stacks 🛠️</h2>
+ </p>
+<table width="320px" align="center">
+        <tbody>
+          <tr>
+            <td colspan="8" align="left"><strong>FRONT-END</strong></td>
+          </tr>
+          <tr valign="top">
+            <td width="80px" align="center">
+              <span>JavaScript</span><br/>
+              <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>HTML5</span><br/>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>CSS3</span><br/>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>React</span><br/>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>Redux</span><br/>
+              <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>Figma</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>Bootstrap</span><br/>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>Trello</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
+            </td>
+          </tr>
+          <tr>
+            <td colspan="8" align="left"><strong>BACK-END I</strong></td>
+          </tr>
+          <tr valign="top">
+            <td width="80px" align="center">
+              <span>TypeScript</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+            </td>
+	    <td align="center">
+              <span>Angular</span><br/>
+               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
+              </td>  
+            <td width="80px" align="center">
+              <span>NodeJS</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+            </td>           
+           <td width="80px" align="center">
+              <span>Express</span><br/>
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            </td>
+           <td width="60px" align="center">
+              <span>Docker</span><br/>
+              <img height="45px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+            </td>
+             <td width="50px" align="center">
+              <span>MySQL</span><br/>
+              <img height="52px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+            </td>
+            <td width="80px" align="center">
+              <span>MongoDB</span><br/>
+              <img height="42px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+            </td>           
+            <td width="80px" align="center">
+              <span>Sequelize</span><br/>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
+            </td>
+          </tr>
+             <tr>
+            <td colspan="8" align="left"><strong>BACK-END II</strong></td>
+          </tr>
+	       <td width="80px" align="center">
+                <span>Python</span><br/>
+                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+              </td>
+		<td width="40px" align="center">
+                <span>Java</span><br/>
+                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+              </td>
+               <td width="38px" align="center">
+              <span>Flask</span>
+              <img height="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+            </td>
+	     <td width="25px" align="center">
+             <span>Django</span>
+             <img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
+           </td> 
+	   <td width="80px" align="center">
+           <span>Spring</span><br/>
+           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+           </td>	
+           <td width="90px" align="center">
+             <span>MSC</span><br/>
+             <img height="32px" src="https://user-images.githubusercontent.com/96168296/232324476-9102fc89-b213-4038-b778-bb6ca9bc0cbf.png" />
+           </td> 
+              <td width="90px" align="center">
+             <span>POO</span><br/>
+             <img height="32px" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
+           </td> 
+	   <td width="80px" align="center">
+              <span>Npm</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
+            </td>
+	   <tr>
+            <td colspan="8" align="left"><strong>TESTS</strong></td>
+          </tr>
+          <tr valign="top">
+            <td width="80px" align="center">
+              <span>RTL</span><br/>
+              <img height="32" src="https://testing-library.com/img/octopus-128x128.png" />
+            </td>
+            <td width="80px" align="center">
+              <span>Jest</span><br/>
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
+            </td>
+            <td width="80px" align="center">
+              <span>Mocha</span><br/>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span>Chai</span><br/>
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" />
+            </td>            
+            <td width="80px" align="center">
+              <span>Cypress</span><br/>
+              <img height="32" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" />
+            </td>
+             <td width="80px" align="center">
+             <span>ESLint</span><br/>
+             <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
+           </td> 
+           <td width="80px" align="center">
+             <span>Pytest</span><br/>
+             <img height="42" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
+           </td>
+	   <td width="32px" align="center">
+             <span>Nginx</span><br/>
+             <img height="40px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
+           </td>         
+            <tr>
+             <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
+            </tr>
+            <tr valign="top">              
+            <td width="80px" align="center">
+             <span>Git</span><br/>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+              </td>
+              <td width="80px" align="center">
+                <span>GitHub</span><br/>
+                <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
+              </td> 
+               <td width="90px" align="center">
+                <span>VS Code</span><br/>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+              </td>           
+               <td width="30px" align="center">
+                <span>AWS<span><br/>
+                  <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
+                  </td>
+                   <td width="20px" align="center">
+                <span>Kubernetes<span><br/>
+                  <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
+                  </td>
+                   <td width="40px" align="center">
+                <span>Terraform</span><br/>
+                <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
+              </td> 
+		<td width="" align="center">
+                <span>Linux</span><br/>
+                <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+              </td> 	
+                <td width="80px" align="center">
+               <span>Microsoft</span><br/>
+               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
+               </td>
+	 </tbody>
+      </table>
+
+	       
+## Atividade no GitHub :octocat:
+
+<div>
+<a align="right">
+<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="weder96 github stats" />
 </a>
 
-<br />
-<br />
-
-<p align='center'>
-  I live on Goiás, Brazil and work at <b>GFT BRAZIL</b> 
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=weder96.weder96??style=for-the-badge&logo=appveyor"></a>
-</p>
+<a href="https://github.com/weder96/weder96.github.io" align="left">
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=dark" />
+</a> 
 
 
-<p align='center'>
-  <a href="https://twitter.com/weder96">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wedermarianodesousa/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:weder96@gmail.com?subject=Olá%20Weder">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(React, Vue and Angular) web developer from Brazilian.
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<hr>
-
-<h4> 🔭 I’m currently working with ...</h4>
-
-<h5>UI Developer</h5>
-<p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-</p>
-<hr>
+</div>
 
 
-<h4>🌱 I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+ 		       
+## Atividade no Site 📈
+<div align="center">
+<p align="centre"><b>VISITANTES</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{weder96}/count.svg" /></p> 
+  <a href="https://github.com/weder96/github-readme-stats">
+    <img align="center" src="" />
+  </a>    
+</div>
 
-<hr>
-<h4> 📫  FrontEnd working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
-<p>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
- <p>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
- <p>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weder96&theme=gotham)](https://github.com/weder96/github-readme-activity-graph)
 
-
-<hr>
-<h4> 📫  BackEnd working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>  
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-<hr>
-<h4> 📫  Database working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-<h4> 📫  Design working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp;&nbsp;&nbsp;&nbsp;
- </p> 
- <p> 
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-<h4> 📫  IDEs/Editors working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-  
-  
-<hr>
-<h4> 📫 Version Control working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
- 
-  
-<hr>
-<h4> 📫 Hosting/SaaS working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-  
-
-<hr>
-<h4> 📫 Operating System working with ...</h4>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p> 
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<p>  
-
-<hr>
-<h4> 📫 Size Repos </h4>
-<p>
-  <img alt="Vue 3 -App" src="https://img.shields.io/github/repo-size/weder96/vue-app3?style=plastic">
-  <img alt=" weder96.github.io" src="https://img.shields.io/github/repo-size/weder96/weder96.github.io?style=plastic">
-<p>
-  
-<hr>  
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
 
-
+<div> 
 <p align="left">
   <a href="https://github.com/weder96/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=weder96&show_icons=true&include_all_commits=true&theme=dark&line_height=40" 
@@ -234,30 +381,21 @@ Top languages does not indicate my skill level or something like that, it's a gi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weder96&count_private=true&hide=shell&theme=darcula&line_height=30">
   </a>
 </p>
+</div>
 
-<br>
-<p align="left">
-  <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3&theme=dark&show_icons=true" />
-  </a>    
 
-  <a href="https://github.com/weder96/weder96.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=dark" />
-  </a>
-</p>  
-<br>
+## Framework Use 🚥
+<div>
+<img src="https://img.shields.io/badge/JavaScript-Otimo-green"></img>
+<img src="https://img.shields.io/badge/Aws-Otimo-blue"></img>
+<img src="https://img.shields.io/badge/GoogleCloud-Otimo-bluee"></img>
+<img src="https://img.shields.io/badge/java-Otimo-red">
+<img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
+<img src="https://img.shields.io/badge/MSC-Otimo-orange"></img>
+<img src="https://img.shields.io/badge/POO-Otimo-green"></img>
+<img src="https://img.shields.io/badge/SOLID-Otimo-red">
+<img src="https://img.shields.io/badge/AWS-Otimo-orange?logo=amazon-aws">
+<img src="https://img.shields.io/badge/Python-Otimo-blue"></img>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
 
-<!--
-**weder96/weder96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
