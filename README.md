@@ -21,13 +21,11 @@
 ="left">Cloud DevOps AWS & Engenheiro de Software & Full Stack Developer</h2>
 <h2>👋 Olá, eu sou Weder Mariano de Sousa </h2>
 
-Sou Engenheiro de Software Sênior e atualmente trabalho no Grupo GFT. Iniciei minha carreira em TI em 2000. me formei na area <b>técnica em Desenvlvimento de Sistema(ITEGO-GO)</b> e posteriomente me graduei em <b>Ciências da Computação(Uni Anhanguera-GO)</b> e tenho duas especializações: uma em <b>Segurança da Informação(UniLeya-RJ)</b> e outra em <b>Mídias Interativas(UFG-GO)</b>.
+  Sou Engenheiro de Software Sênior no Grupo GFT, com uma carreira em TI iniciada em 2000. Minha formação inclui o curso <b>técnico em Desenvolvimento de Sistemas (ITEGO-GO)</b> e a graduação em <b>Ciência da Computação (Uni-Anhanguera-GO)</b>. Além disso, possuo duas especializações: uma em <b>Segurança da Informação (UniLeya-RJ)</b> e outra em <b>Mídias Interativas (UFG-GO)</b>.
 
-Sou um entusiasta de Software Livre e participo ativamente do movimento em Goiás, sendo um dos membros fundadores da comunidade <b>Anapolivre</b>. 
-Além disso, sou um dos líderes da Comunidade <b>GoJava</b>, a maior comunidade de usuários <b>Java</b> do Centro-Oeste. 
-atualmente fui aceito como <b>AWS Community Builder</b>, além de ser um dos membros fundadores do <b>AWS User Group Anápolis</b>.
+  Sou um entusiasta de Software Livre e participo ativamente do movimento em Goiás, sendo um dos membros fundadores da comunidade <b>Anapolivre</b>. Também sou um dos líderes da Comunidade <b>GoJava</b>, a maior comunidade de usuários <b>Java</b> do Centro-Oeste. Recentemente, fui aceito no programa <b>AWS Community Builder</b> e sou um dos membros fundadores do <b>AWS User Group Anápolis</b>.
 
-Além de ser <b>Professor</b> de computação a mais <b>de 20 anos</b>, formando pessoas, ensinando e aprendendo.
+  Atuo também como <b>Professor</b> de computação <b>há mais de 20 anos</b>, uma jornada contínua de formar pessoas, ensinar e aprender.
 
 <br/>
 <br/>
@@ -55,7 +53,7 @@ No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b
 
 <h3>💡Destaques</h3>
 
-• 100+ projetos (Banckend, FrontEnd e Aws) publicados no GitHub e no Dev.to. <br/>
+• 100+ projetos (Backend, FrontEnd e Aws) publicados no GitHub e no Dev.to. <br/>
 
 • Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br/>
 
