@@ -352,18 +352,8 @@ Vamos conversar? 🚀
 </div>
 
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  		       
-## Atividade no Site 📈
-<div align="center">
-<p align="centre"><b>VISITANTES</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{weder96}/count.svg" /></p> 
-  <a href="https://github.com/weder96/github-readme-stats">
-    <img align="center" src="" />
-  </a>    
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weder96&theme=gotham)](https://github.com/weder96/github-readme-activity-graph)
 
 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
