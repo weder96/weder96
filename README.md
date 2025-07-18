@@ -34,7 +34,7 @@
 
 Minha paixão pela computação começou em 2000, quando fiz meu primeiro curso na área. Logo em seguida, passei a ser monitor e, posteriormente, professor.
 
-Em 2006, ingressei no curso Técnico em Computação com foco em <b>Desenvolvimento de Sistemas</b>. Naquela época, a área (desenvolvimento de Software)ainda não era bem definida, incluindo matérias de hardware no currículo. Nesse mesmo período, eu já ministrava aulas de computação e manutenção em escolas locais.
+Em 2006, ingressei no curso Técnico em Computação com foco em <b>Desenvolvimento de Sistemas</b>. Naquela época, a área (desenvolvimento de Software)ainda não era bem definida, fiz o curso devido a matérias de hardware incluidas no currículo. Nesse mesmo período, eu já ministrava aulas de computação e manutenção em escolas locais.
 
 Minha primeira oportunidade como programador surgiu em 2009, na área contábil e tributária. Foi nesse momento que tive meu primeiro contato com o que hoje entendemos como <b>Ciência de Dados</b>, trabalhando com tecnologias como <b>SQL, PostgreSQL e DB2</b>.
 
@@ -42,11 +42,11 @@ Nos anos seguintes, atuei por sete anos na <b>Prefeitura de Anápolis</b> como d
 
 Em 2017, surgiu a oportunidade de trabalhar na construção de um sistema para a <b>startup Sensr.It Information Technology</b>, que estava em seu início. A empresa foi vendida em 2025 para uma gigante na área de <b>tickets operacionais e monitoramento de sistemas e hardware</b>.
 
-Fui contratado em 2018 pela <b>Squadra Tecnologia</b>, uma empresa de outsourcing de desenvolvimento de software. Atuei em projetos para várias empresas <b>gigantes em seus nichos de negócio</b>, o que me ajudou a me fortalecer e me tornar um <b>profissional diferenciado.</b> Concomitantemente, conciliei essa atuação com o cargo de <b>professor na Secretaria de Estado de Educação, Cultura e Esporte</b>.
+Fui contratado em 2018 pela <b>Squadra Tecnologia</b>, uma empresa de outsourcing de desenvolvimento de software. Atuei em projetos para várias empresas <b>gigantes em seus nichos de negócios</b>, o que me ajudou a me fortalecer e me tornar um <b>profissional diferenciado.</b> Concomitantemente, conciliei essa atuação com o cargo de <b>professor na Secretaria de Estado de Educação, Cultura e Esporte</b>.
 
 Em 2020, ingressei na <b>NTT DATA Europe & LATAM</b>, onde ocupei o cargo de <b>CLS - Center Leader Specialist Senior.</b> Participei de um dos maiores projetos de migração de um ambiente <b>on-premise para a nuvem para uma empresa do setor financeiro</b>, com a arquitetura totalmente redesenhada para <b>microsserviços</b>.
 
-No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b> para atuar como <b>Analista de Sistemas Sênior e Engenheiro de Software</b>. Fui selecionado devido às minhas habilidades e conhecimentos em <b>nuvem (AWS e Azure)</b> para participar de outro grande projeto de migração para a nuvem.
+No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b> para atuar como <b>Analista de Sistemas Sênior e Engenheiro de Software</b>. Fui selecionado devido às minhas habilidades e conhecimentos em <b>nuvem (AWS e Azure)</b> para participar de outro grande projeto de <b>migração para a nuvem.</b>
 
 <br/>
 
@@ -55,7 +55,7 @@ No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b
 
 • 100+ projetos (Backend, FrontEnd e Aws) publicados no GitHub e no Dev.to. <br/>
 
-• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br/>
+• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS e Serverless), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br/>
 
 • Experiência em projetos lab em Java e Spring Boot, em Micro Serviços<br/>
 
@@ -67,22 +67,22 @@ No final de 2022, aceitei um novo desafio ao ser contratado pelo <b>Grupo GFT</b
 
 
 <h3>🎯 Minha atuação em Cloud & DevOps</h3>
-Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD, CDK, SAM) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br/>
+Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation e Serverless. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD, CDK, SAM) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer e Api Gateway, como em um projetos recentes  alta disponibilidade.<br/>
 
 <h3>🔗 Minha atuação Projetos FrontEnd e Backend</h3>
-• Trabalhei em +100 projetos, sendo sua maioria está atualmente em Produção <br/>
-• Implementei pipelines CI/CD com AWS CodePipeline e Terraform, reduzindo tempo de deploy(Economia de Energia).<br/>
-• Desenvolvi APIs RESTful com Java(Springboot) e PostgreSQL e SQlServer, integrando microservices em projetos escaláveis.<br/>
-• Configurei infraestruturas AWS (EC2, RDS, VPC) para clientes, otimizando custos em 15%.<br/>
-• Criei Arquiteturas Cloud(Serverless), na Azure e AWS, criando sistema Multi Cloud<br/>
-• Criei Arquiteturas com Step functions e Lambdas, e que incluia Generative AI<br/>
-• Criei Arquiteturas Workflow de Dados (Azure e AWS)<br/>
+• <b>Trabalhei em +100 projetos</b>, sendo sua maioria está atualmente em Produção <br/>
+• <b>Implementei pipelines CI/CD com AWS CodePipeline e Terraform</b>, reduzindo tempo de deploy(Economia de Energia).<br/>
+• Desenvolvi <b>APIs RESTful com Java(Springboot) e PostgreSQL e SQlServer</b>, integrando microservices em projetos escaláveis.<br/>
+• Configurei infraestruturas <b>AWS (EC2, RDS, VPC)</b> para clientes, otimizando custos<br/>
+• Criei Arquiteturas <b>Cloud(Serverless)</b>, na Azure e AWS, criando sistema Multi Cloud<br/>
+• Criei Arquiteturas com <b>Step functions e Lambdas</b>, e que incluia Generative AI<br/>
+• Criei Arquiteturas <b>Workflow de Dados (Azure e AWS)</b><br/>
 
 
 <h3>📩 Conecte-se!</h3>
-Venha conosco criar um movimento livre e com ajuda, vivermos em Comunidade, Backend, FrontEnd, Data, CLoud. <br/>
 
-Vamos conversar? 🚀
+Venha conosco criar um movimento livre e com ajuda priorizando o conhecimento, vivermos em Comunidade, tanto Backend, FrontEnd, Data, Cloud. <br/>
+
 
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
