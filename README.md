@@ -387,3 +387,15 @@ Top languages does not indicate my skill level or something like that, it's a gi
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
 
+
+
+
+## 📊 O que eu ando fazendo por aqui 📊
+
+<div align = "center">
+ 
+![Status Lelepg](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weder96&theme=nord_dark)
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=weder96&theme=nord&column=6&row=1&margin-w=10)
+
+</div>
